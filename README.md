@@ -1,6 +1,8 @@
 # Configured-Network-Topologies
 Curtis Mayes
 
+You will need an account with cisco(packet tracer) to access the pkt file!!!
+
 I chose this project as it will increase my networking knowledge. This will help me have a solid foundation of networking before I can progress in the cloud.
 
 Albion University is a large university which has two campuses situated 20 miles apart. The university’s students and staff are distributed in 4 faculties; these include the faculties of Health and Sciences; Business; Engineering/Computing and Art/Design. Each member of staff has a PC and students have access to PCs in the labs. Create a network topology with the main components to support the following:
