@@ -1,7 +1,7 @@
 # Configured-Network-Topologies
 Curtis Mayes
 
-You will need an account with cisco(packet tracer) to access the pkt file!!!
+Select "View Raw" to see the pkt file. You will also need an account with cisco(packet tracer) to access the pkt file!!!
 
 I chose this project as it will increase my networking knowledge. This will help me have a solid foundation of networking before I can progress in the cloud.
 
